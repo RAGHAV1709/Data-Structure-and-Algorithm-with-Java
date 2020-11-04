@@ -1,0 +1,3 @@
+anonymousinnerclass.Demo
+anonymousinnerclass.AnonymousInnerClass
+anonymousinnerclass.AnonymousInnerClass$1
