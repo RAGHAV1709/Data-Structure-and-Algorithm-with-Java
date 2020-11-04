@@ -1,0 +1,2 @@
+extendthread.NewThread
+extendthread.ExtendThread
