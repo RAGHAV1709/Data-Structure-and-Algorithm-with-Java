@@ -1,0 +1,2 @@
+objectinitializationthroughmethod.Student
+objectinitializationthroughmethod.ObjectInitializationThroughMethod

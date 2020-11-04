@@ -1,0 +1,2 @@
+objectthroughmethod4.ObjectThroughMethod4
+objectthroughmethod4.Company
